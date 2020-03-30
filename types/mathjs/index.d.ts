@@ -3309,6 +3309,7 @@ declare namespace math {
         precision?: number;
         parenthesis?: string;
         randomSeed?: string;
+        predictable?: boolean;
     }
 
     interface MathJsJson {
